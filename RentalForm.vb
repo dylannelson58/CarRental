@@ -1,6 +1,12 @@
 ﻿Option Explicit On
 Option Strict On
 Option Compare Binary
+
+'Dylan Nelson
+'RCET0265 
+'Spring 2021
+'Math Contest
+'https://github.com/dylannelson58/CarRental
 Public Class RentalForm
 
     Dim totalCharge As Decimal
